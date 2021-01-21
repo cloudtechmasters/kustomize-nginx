@@ -3,7 +3,7 @@
 # Pre-Requisites:
     - EKS-Cluster
 # Clone the code from Github
-    https://github.com/Naresh240/kustomize-nginx.git
+    https://github.com/cloudtechmasters/kustomize-nginx.git
     cd kustomize-nginx/base
 # Create Base Resources
     kubectl apply -k base
